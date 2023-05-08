@@ -7,14 +7,15 @@
   <meta name="description" content="This is my CSS project">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Us</title>
+  <title>About LTS</title>
   <link rel="icon" href="favicon.ico" type="image/x-icon">
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/main.js" defer></script>
 </head>
 
 <body>
   <header class="header">
-    <h1 class__h1>Little Taco Shop</h1>
+    <h1 class="header__h1">Little Taco Shop</h1>
     <nav class="header__nav" aria-label="primary-navigation">
       <ul class="header__ul">
         <li>
@@ -44,6 +45,32 @@
     </figure>
   </section>
 
+  <main class="main">
+    <article id="about" class="main__article about">
+      <h2>About</h2>
+      <p>
+        LTS was founded in 2022. Our shop was built from a <strong>love of tacos</strong> 🌮 🌮 🌮 . We hope our
+        shop adds a
+        unique and interesting
+        place to our little town.
+      </p>
+      <aside class="about__trivia">
+        <h3>Taco Trivia</h3>
+        <details>
+          <summary>When did tacos first appear in the United States?</summary>
+          <p class="about__trivia-answer">Sometime in 1994</p>
+        </details>
+      </aside>
+    </article>
+  </main>
+
+  <footer class="footer">
+    <p>
+      <span class="nowrap">Copyright &copy; <time id="year"></time></span>
+      <span class="nowrap"> The Little Taco Shop</span>
+
+    </p>
+  </footer>
 </body>
 
 </html>
