@@ -1,7 +1,5 @@
-This is my HTML Project from Dave Gray freecodecamp video.
-I stopped the video from when the project was starting, was fully completed 100% on my own.
-Fully completed, but I give myself 7/10 rating, since I missed about 7 or 8 mistakes.
-Missing a few things, but that is okay, since it is completed.
+This is my CSS Project from Dave Gray's freecodecamp video.
+It is a code along project.
 
 # "HTML Project for Beginners"
 
