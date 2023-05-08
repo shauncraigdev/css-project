@@ -1,4 +1,4 @@
-# CSS Project
+## CSS Project
 This is my CSS Project from Dave Gray's freecodecamp video.
 It is a code along project.
 A huge 11hr video to follow along.
